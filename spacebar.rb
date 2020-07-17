@@ -3,7 +3,7 @@ class Spacebar < Formula
   homepage "https://github.com/cmacrae/spacebar"
   version "1.0.0"
   url "https://github.com/cmacrae/spacebar/archive/v#{version}.tar.gz"
-  sha256 "b8e1cb7ce0684fa1654bea35b439ac834239bda2b69bd720cbf7ddd6df8fed9a"
+  sha256 "e57a187b0bbc44baf8a4a6768bf8015e0fc8332ada7bc9f22a4c073910117165"
   head "https://github.com/cmacrae/spacebar.git"
 
   depends_on :macos => :high_sierra
