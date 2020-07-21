@@ -1,9 +1,9 @@
 class Spacebar < Formula
   desc "A minimal status bar for macOS."
   homepage "https://github.com/cmacrae/spacebar"
-  version "1.1.0"
+  version "1.1.1"
   url "https://github.com/cmacrae/spacebar/archive/v#{version}.tar.gz"
-  sha256 "e57a187b0bbc44baf8a4a6768bf8015e0fc8332ada7bc9f22a4c073910117165"
+  sha256 "cb0e4038d1274c8c7e25844969f1bdb1bc41f7e5bccc4eb688d2fc48bef45aa9"
   head "https://github.com/cmacrae/spacebar.git"
 
   depends_on :macos => :high_sierra
