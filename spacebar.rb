@@ -1,7 +1,7 @@
 class Spacebar < Formula
   desc "A minimal status bar for macOS."
   homepage "https://github.com/wxsh/spacebar"
-  version "0.1.1"
+  version "0.1.2"
   url "https://github.com/wxsh/spacebar/archive/#{version}.tar.gz"
   sha256 "740f907c5fd4dab3e5500928a8caa2bed82ea746c8ce653c97fbd2be603ef1e3"
   head "https://github.com/cmacrae/spacebar.git"
